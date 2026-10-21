@@ -1,0 +1,10 @@
+This file has 10 lines.
+This file has 10 lines.
+This file has 10 lines.
+This file has 10 lines.
+This file has 10 lines.
+This file has 10 lines.
+This file has 10 lines.
+This file has 10 lines.
+This file has 10 lines.
+This is the tenth line. But there is a linebreak here.

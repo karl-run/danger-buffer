@@ -1,0 +1,19 @@
+{
+  "name": "buffer-repro",
+  "packageManager": "yarn@4.18.0",
+  "dependencies": {
+    "@hono/node-server": "^2.1.5",
+    "hono": "^4.13.13",
+    "oxfmt": "^0.74.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "fmt": "oxfmt src README.md"
+  }
+}
